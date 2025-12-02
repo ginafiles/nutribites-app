@@ -205,3 +205,56 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ============================================
+# NUTRIBITES PROJECT SPECIFIC
+# ============================================
+
+# Anaconda / Conda
+conda-env/
+.conda/
+*.conda
+
+# Google Colab
+.config/
+sample_data/
+drive/
+
+# Data files - CRITICAL for NutriBites
+data/raw/*
+!data/raw/.gitkeep
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xlsx
+
+data/intermediate/*
+!data/intermediate/.gitkeep
+
+# API Keys & Secrets
+.env.local
+.env.*.local
+config/secrets.yaml
+config/secrets.json
+*.key
+*.pem
+client_secret.json
+fatsecret_credentials.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & temporary files
+logs/
+*.tmp
+*.temp
+
+# Model experiments
+models/experiments/
+models/backup/
