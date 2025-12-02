@@ -69,7 +69,7 @@ A machine learning-based application that provides personalized meal recommendat
 #### 1. Clone repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/nutribites-app.git
+git clone https://github.com/ginafiles/nutribites-app.git
 cd nutribites-app
 ```
 
