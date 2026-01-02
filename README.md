@@ -145,11 +145,11 @@ git push origin dev-[your-name]
 
 | Week   | Focus                  | Status         |
 | ------ | ---------------------- | -------------- |
-| Week 1 | Data Collection & EDA  | 🚧 In Progress |
-| Week 2 | Model Training         | ⏳ Pending     |
-| Week 3 | Backend Development    | ⏳ Pending     |
-| Week 4 | Deployment             | ⏳ Pending     |
-| Week 5 | Polish & Documentation | ⏳ Pending     |
+| Week 1 | Data Collection & EDA  | ✅ Done        |
+| Week 2 | Model Training         | ✅ Done        |
+| Week 3 | Backend Development    | 🚧 In Progress  |
+| Week 4 | Deployment             | ⏳ Pending      |
+| Week 5 | Polish & Documentation | ⏳ Pending    |
 
 ---
 
@@ -161,4 +161,4 @@ Data powered by [FatSecret Platform API](https://platform.fatsecret.com/)
 ---
 
 **Status:** 🚧 Active Development  
-**Last Updated:** December 2, 2025
+**Last Updated:** January 2, 2026
